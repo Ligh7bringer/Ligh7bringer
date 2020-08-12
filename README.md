@@ -1,7 +1,7 @@
 
 ### Hi there! I'm Svetlozar - aka Ligh7bringer 👋
 
-## I am a Software Engineer who is currently working at [Codeplay](https://codeplay.com)
+#### I am a Software Engineer who is currently working at [Codeplay](https://codeplay.com)
 
 ### Connect with me:
 
@@ -27,6 +27,10 @@
 
 <br />
 <br />
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [website]: https://sgeor.me
 [linkedin]: https://uk.linkedin.com/in/sgeor255
