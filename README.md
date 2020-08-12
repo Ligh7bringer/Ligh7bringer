@@ -40,9 +40,6 @@
 
 [![Ligh7bringer's github stats](https://github-readme-stats.vercel.app/api?username=Ligh7bringer&count_private=true&show_icons=true)](https://github.com/Ligh7bringer)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ligh7bringer)](https://github.com/Ligh7bringer)
-
-
 [website]: https://sgeor.me
 [linkedin]: https://uk.linkedin.com/in/sgeor255
 [email]: https://sgeor.me/contact
