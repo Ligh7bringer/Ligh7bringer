@@ -28,11 +28,20 @@
 <br />
 <br />
 
+---
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Building SYCL applications with CMake](https://www.sgeor.me/post/SYCL-with-cmake/)
 - [Hello, World!](https://www.sgeor.me/post/hello-world/)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+[![Ligh7bringer's github stats](https://github-readme-stats.vercel.app/api?username=Ligh7bringer&count_private=true&show_icons=true)](https://github.com/Ligh7bringer)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ligh7bringer)](https://github.com/Ligh7bringer)
+
 
 [website]: https://sgeor.me
 [linkedin]: https://uk.linkedin.com/in/sgeor255
