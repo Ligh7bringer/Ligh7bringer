@@ -32,9 +32,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [Building SYCL applications with CMake](https://www.sgeor.me/post/SYCL-with-cmake/)
 - [Hello, World!](https://www.sgeor.me/post/hello-world/)
-- [About me](https://www.sgeor.me/about/)
-- [Contact](https://www.sgeor.me/contact/)
-- [Projects](https://www.sgeor.me/projects/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://sgeor.me
