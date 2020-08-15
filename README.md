@@ -32,6 +32,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting up GitHub Actions for CMake/C++ Projects](https://www.sgeor.me/post/gh-actions-cpp-cmake/)
 - [Building SYCL applications with CMake](https://www.sgeor.me/post/SYCL-with-cmake/)
 - [Hello, World!](https://www.sgeor.me/post/hello-world/)
 <!-- BLOG-POST-LIST:END -->
