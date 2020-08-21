@@ -1,8 +1,6 @@
 
 ### Hi there! I'm Svetlozar - aka Ligh7bringer 👋
 
-#### I am a Software Engineer who is currently working at [Codeplay](https://codeplay.com)
-
 ### Connect with me:
 
 [<img align="left" alt="sgeor.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
