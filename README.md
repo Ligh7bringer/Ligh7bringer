@@ -1,6 +1,6 @@
 ### Connect with me:
 
-* [Websie][website]
+* [Website][website]
 * [LinkedIn][linkedin]
 * [Email][email]
 
