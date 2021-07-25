@@ -1,10 +1,8 @@
 ### Connect with me:
 
-[<img align="left" alt="sgeorgiev.me" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Blank_globe.svg" />][website]
-[<img align="left" alt="Svetlozar Georgiev - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/1d1e8885c5031874b32f4e480e371ce2b1c24144/svg/envelope-closed.svg" />][email]
-
-<br />
+* [Websie][website]
+* [LinkedIn][linkedin]
+* [Email][email]
 
 ---
 
@@ -21,6 +19,6 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ligh7bringer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://sgeor.me
+[website]: https://sgeorgiev.me
 [linkedin]: https://uk.linkedin.com/in/sgeor255
-[email]: https://sgeor.me/contact
+[email]: https://sgeorgiev.me/contact
