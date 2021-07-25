@@ -1,4 +1,4 @@
-### Connect with me:
+### Connect with me
 
 * [Website][website]
 * [LinkedIn][linkedin]
