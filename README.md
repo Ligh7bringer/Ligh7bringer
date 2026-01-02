@@ -10,4 +10,4 @@
 
 [website]: https://sgeor.dev/
 [linkedin]: https://uk.linkedin.com/in/sgeor255
-[email]: https://sgeorgiev.me/contact
+[email]: https://sgeor.dev/contact
